@@ -1,5 +1,5 @@
 # sample git repository
----------------------
+-----------------------
 
 This repository is for learning purposes.
 
