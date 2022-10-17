@@ -1,4 +1,4 @@
-# sample git repository
+# Sample git Repository
 -------------------------
 
 This repository is for learning purposes.
